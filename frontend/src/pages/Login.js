@@ -73,6 +73,11 @@ function Login() {
         }
     };
 
+    const handleFillCredentials = () => {
+        setEmail('admin@cyberguard.com');
+        setPassword('Admin@123');
+    };
+
     if (requireReset) {
         return (
             <div className="login-container">
@@ -168,17 +173,28 @@ function Login() {
                         />
                     </div>
 
-                    <button type="submit" className="btn btn-primary w-full" disabled={loading}>
-                        {loading ? (
-                            <>
-                                <div className="spinner"></div>
-                                Authenticating...
-                            </>
-                        ) : (
-                            'Sign In'
-                        )}
-                    </button>
+                    <div className="login-actions">
+                        <button type="submit" className="btn btn-primary w-full" disabled={loading}>
+                            {loading ? (
+                                <>
+                                    <div className="spinner"></div>
+                                    Authenticating...
+                                </>
+                            ) : (
+                                'Sign In'
+                            )}
+                        </button>
+
+                        <button
+                            type="button"
+                            className="btn-demo-creds"
+                            onClick={handleFillCredentials}
+                        >
+                            🚀 Try Test Credentials
+                        </button>
+                    </div>
                 </form>
+
 
                 <div className="login-footer">
                     <div className="feature-list">
