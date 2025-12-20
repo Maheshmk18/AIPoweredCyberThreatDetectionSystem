@@ -155,7 +155,6 @@ cd frontend
 npm start
 ```
 
-**Access**: http://localhost:3000
 
 ---
 
@@ -294,20 +293,6 @@ project/
 └── README.md
 ```
 
----
-
-## 🎓 **Interview Talking Points**
-
-> *"This system detects insider threats and malicious behaviour using DistilBERT Transformers. We built Flask APIs, MongoDB storage, JWT security, and role-based dashboards for Admin, SOC Analysts, and Employees."*
-
-### **Key Highlights**
-1. **AI/ML**: DistilBERT for real-time threat classification
-2. **Full-Stack**: React + Flask + MongoDB
-3. **Security**: JWT auth, bcrypt, RBAC
-4. **Enterprise**: User management, role-based access
-5. **UI/UX**: Premium dark theme, animations, responsive
-
----
 
 ## 🛠️ **Tech Stack**
 
