@@ -1,0 +1,31 @@
+event
+user john.doe login successful from 192.168.1.45
+file quarterly_report.pdf accessed by jane.smith
+admin login failed from IP 203.0.113.42
+database backup completed successfully
+user alice.wong logout normal
+suspicious file download detected from external source
+email sent to client@company.com
+privilege escalation attempt by user bob.jones
+document contract.docx saved successfully
+malware signature detected in attachment.exe
+user session timeout after 30 minutes
+multiple failed login attempts for admin account
+application update installed successfully
+unauthorized access attempt to /etc/passwd
+file upload to cloud storage completed
+SQL injection detected in web form
+system reboot scheduled for maintenance
+brute force attack blocked from 198.51.100.23
+user password reset requested
+data exfiltration prevented to unknown server
+meeting invite sent successfully
+ransomware activity detected and quarantined
+backup verification passed
+credential theft attempt blocked
+user profile picture updated
+suspicious network scan detected
+report generated for Q4 analysis
+unauthorized API access attempt
+cache cleared automatically
+firewall blocked connection to malicious IP

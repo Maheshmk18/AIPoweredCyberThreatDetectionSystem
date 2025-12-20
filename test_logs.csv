@@ -1,0 +1,21 @@
+event_id,timestamp,user,action,details
+LOG-001,2024-01-15 08:00:01,john.doe,login sequence,login success user dashboard view
+LOG-002,2024-01-15 08:05:22,sarah.smith,file access,open document project_report.pdf read
+LOG-003,2024-01-15 08:10:15,admin,system check,system status check uptime service list
+LOG-004,2024-01-15 08:15:00,unknown,login failure,login failed invalid password attempt 1
+LOG-005,2024-01-15 08:15:05,unknown,login failure,login failed invalid password attempt 2
+LOG-006,2024-01-15 08:15:10,unknown,login failure,login failed invalid password attempt 3
+LOG-007,2024-01-15 08:20:00,hacker,intrusion,admin login successful shell access root
+LOG-008,2024-01-15 08:22:10,hacker,privilege escalation,sudo su root force privileges
+LOG-009,2024-01-15 08:25:00,john.doe,normal work,email send attachment meeting schedule
+LOG-010,2024-01-15 08:30:00,hacker,data theft,export database users.db to external_ip
+LOG-011,2024-01-15 08:35:12,bob.jones,access denied,folder access denied authorized personnel only
+LOG-012,2024-01-15 08:40:00,hacker,cover tracks,rm -rf /var/log/syslog delete traces
+LOG-013,2024-01-15 09:00:00,admin,maintenance,backup database start compression zip
+LOG-014,2024-01-15 09:05:00,hacker,attack,sql injection user' OR '1'='1 drop table
+LOG-015,2024-01-15 09:10:00,sarah.smith,logout,logout user session end
+LOG-016,2024-01-15 09:15:00,detective,investigation,search logs keyword error view
+LOG-017,2024-01-15 09:20:00,script,automation,batch job run daily processing start
+LOG-018,2024-01-15 09:30:00,attacker,brute force,password attack multiple rapid requests
+LOG-019,2024-01-15 09:35:00,system,alert,firewall block incoming connection port 22
+LOG-020,2024-01-15 10:00:00,hacker,destruction,format disk C: /y force confirm

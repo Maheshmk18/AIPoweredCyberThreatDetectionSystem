@@ -1,0 +1,21 @@
+event,timestamp,user
+login user dashboard,2024-01-15 10:30:00,user1
+user access file read,2024-01-15 10:31:00,user1
+login check email,2024-01-15 10:32:00,user2
+login failed attempt retry,2024-01-15 10:33:00,user3
+access denied unauthorized,2024-01-15 10:34:00,user3
+login admin export database delete,2024-01-15 10:35:00,admin_suspicious
+sudo root privilege escalation,2024-01-15 10:36:00,hacker1
+user view report download,2024-01-15 10:37:00,user4
+multiple login failed brute force,2024-01-15 10:38:00,attacker1
+admin delete user database,2024-01-15 10:39:00,admin_malicious
+login user profile update,2024-01-15 10:40:00,user5
+unauthorized access system config,2024-01-15 10:41:00,hacker2
+user access admin panel denied,2024-01-15 10:42:00,user6
+brute force login admin delete,2024-01-15 10:43:00,attacker2
+login user dashboard logout,2024-01-15 10:44:00,user7
+root access system file delete,2024-01-15 10:45:00,hacker3
+user read document send email,2024-01-15 10:46:00,user8
+password reset multiple attempts,2024-01-15 10:47:00,user9
+admin privilege escalation export,2024-01-15 10:48:00,admin_bad
+login user settings update logout,2024-01-15 10:49:00,user10

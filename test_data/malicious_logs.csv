@@ -1,0 +1,21 @@
+event
+admin login failed 10 times from unknown IP address
+database export initiated at 3:00 AM by unauthorized user
+privilege escalation attempt detected
+malware signature found in uploaded file
+unauthorized access to restricted directory
+SQL injection attempt blocked
+brute force attack detected on admin account
+ransomware activity detected
+data exfiltration to external server
+backdoor installation attempt blocked
+credential dumping detected
+lateral movement detected across network
+suspicious PowerShell script execution
+unauthorized service account creation
+firewall rules modified without authorization
+antivirus disabled by unknown process
+registry modification detected
+suspicious outbound connection to command server
+mass file encryption detected
+rootkit behavior detected
