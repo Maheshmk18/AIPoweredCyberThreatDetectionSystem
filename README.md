@@ -114,19 +114,6 @@ cd ../frontend
 npm install
 ```
 
-### **2. Configure Environment**
-
-**Backend** (`backend/.env`):
-```env
-MONGO_URI=mongodb+srv://username:password@cluster.mongodb.net/
-MONGO_DB_NAME=cyber_threat_detection
-JWT_SECRET_KEY=your-super-secret-jwt-key-change-this
-```
-
-**Frontend** (`frontend/.env`):
-```env
-REACT_APP_API_URL=http://localhost:5000/api
-```
 
 ### **3. Initialize Demo Data**
 
